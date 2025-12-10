@@ -18,7 +18,7 @@ Strategic Assessment for H.B. Fuller | Gabon Mining Sector Expansion
 
 📄
 
-This repository provides a full strategic market entry analysis for H.B. Fuller in Gabon’s fast-growing mining sector. It details key opportunities, major operators, operational challenges, and how H.B. Fuller’s industrial solutions can support performance improvement and expansion.
+ strategic market entry analysis for H.B. Fuller in Gabon’s fast-growing mining sector. It details key opportunities, major operators, operational challenges, and how H.B. Fuller’s industrial solutions can support performance improvement and expansion.
 
 
 ---
@@ -188,24 +188,23 @@ I --> M[Regulatory Compliance]
 
 graph TD
 
-A[H.B. Fuller] --> B{Mining Challenges}
-A --> C{Market Needs}
+flowchart LR
+    A[Exploration] --> B[Extraction]
+    B --> C[Processing]
+    C --> D[Transport]
+    D --> E[Export]
 
-B --> D[Equipment Wear]
-B --> E[Pipeline Leaks]
-B --> F[Safety Issues]
+    subgraph "Fuller's Impact Zone"
+        B --> F(Adhesives & Sealants)
+        C --> G(Specialty Chemicals)
+        B --> H(Epoxies & Repairs)
+        C --> I(Protective Coatings)
+    end
 
-C --> G[Durability]
-C --> H[Cost Reduction]
-C --> I[Compliance]
-
-A --> J[H.B. Fuller Solutions]
-J --> K[Adhesives]
-J --> L[Sealants]
-J --> M[Coatings]
-J --> N[Epoxies]
-
-
+    F --> J[Reduced Downtime]
+    G --> K[Higher Efficiency]
+    H --> L[Extended Asset Life]
+    I --> M[Regulatory Compliance]
 ---
 
 📍 Market Entry Strategy
