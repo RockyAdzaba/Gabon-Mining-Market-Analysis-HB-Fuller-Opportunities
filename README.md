@@ -16,7 +16,7 @@ Strategic Assessment for H.B. Fuller | Gabon Mining Sector Expansion
 
 ---
 
-📄 Description courte (pour GitHub)
+📄
 
 This repository provides a full strategic market entry analysis for H.B. Fuller in Gabon’s fast-growing mining sector. It details key opportunities, major operators, operational challenges, and how H.B. Fuller’s industrial solutions can support performance improvement and expansion.
 
